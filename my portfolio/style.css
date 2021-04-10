@@ -1,0 +1,45 @@
+body{
+    background-color:#A5A58D
+     ; 
+     color: #F0EFEB;
+  text-align: "center" 
+
+
+
+} 
+.grid{
+  display:flex;
+flex-wrap:wrap ;
+justify-content: space-evenly;
+
+background-color:A5A58D ;
+}
+div{
+  margin: 25px; 
+  border: solid;
+  border-radius: 10px;
+  background-color: lavenderblush;
+}
+
+
+img{
+  border-radius: 7px;
+}
+h3{
+  color: black;
+  border-color: #A5A58D;
+}
+.head{
+  display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+
+}
+
+.item:hover img{
+  opacity: 0.33; 
+  
+}
+
+
+
